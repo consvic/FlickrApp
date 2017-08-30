@@ -23,7 +23,7 @@ public class JSONParser {
 
     }
 
- 
+
 
     public JSONArray getArray() throws JSONException {
         JSONObject jsonObject = getParser();
